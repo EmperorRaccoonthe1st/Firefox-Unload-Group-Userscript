@@ -2,6 +2,8 @@
 
 A lightweight, native `userChrome.js` customization for Mozilla Firefox that adds an **"Unload all tabs"** button to the native Tab Group options menu.
 
+Made entirely with AI. Use at your own risk.
+
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │ Manage tab group                                            │
